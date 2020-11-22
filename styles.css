@@ -35,3 +35,10 @@ hr{
     border: 1px solid var(--primary-color);
     
 }
+.list-non-bullets{
+    list-style: none;
+}
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
