@@ -3,9 +3,11 @@
 :root {
     --primary-color:#7C3AED;
     --dark-gray:#687280;
-    --off-white: #9CA3AF;
+    --off-white:#F3F4F6;
 }
 body{
+    /* width: 50%;
+    margin: 0 auto; */
     font-family: 'Montserrat', sans-serif;
     margin:0px;
 }
@@ -113,6 +115,10 @@ hr{
     color: white;
     border-top-right-radius: 1rem;
 
+}
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
 }
 .footer .link{
     color: white;
