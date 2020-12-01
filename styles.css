@@ -133,6 +133,7 @@ hr{
 .margin{
     margin-bottom: 2.5rem;
 }
-/* a:hover{
-    background-color:gray;
-}  The :hover selector style links on mouse-over. */
+a:hover{
+    background-color:#3a029b;
+    border-radius: 10%;
+}  
