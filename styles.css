@@ -1,15 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color:#7C3AED;
-    --dark-gray:#687280;
+    --primary-color: #8B5CF6;
+    --dark-gray: rgb(20, 17, 17);
     --off-white:#F3F4F6;
 }
+html {
+    overflow:   scroll;
+  }
+  ::-webkit-scrollbar {
+      width: 0px;
+      background: transparent; 
+  }
 body{
     width: 50%;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     /* margin:0px; */
+    /* background:#CFFAFE; */
+    
 }
 hr{
     margin: 10px 0px;
@@ -100,7 +109,7 @@ hr{
       /**section**/
 .section{
     padding: 2rem;
-    /* border-radius: 1rem; */
+     border-radius: 1rem 1rem 0rem 0rem; 
 
 }
 .section h1{
@@ -133,7 +142,7 @@ hr{
 .margin{
     margin-bottom: 2.5rem;
 }
-a:hover{
-    background-color:#3a029b;
-    border-radius: 10%;
+ul a:hover{
+    background-color: #5B21B6;
+    border-radius: 10% 10%;
 }  
