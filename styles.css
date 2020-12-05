@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #8B5CF6;
+    --primary-color: #EF4444;
+    /* --primary-color: #8B5CF6; */
     --dark-gray: rgb(20, 17, 17);
-    --off-white:#F3F4F6;
+    --off-white:#FEE2E2;
+    /* --off-white:#F3F4F6; */
 }
 html {
     overflow:   scroll;
@@ -13,7 +15,7 @@ html {
       background: transparent; 
   }
 body{
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     /* margin:0px; */
@@ -48,7 +50,7 @@ hr{
 .link-secondary{
     color: var(--primary-color);
     border-radius: 0.5rem;
-    border: 1px solid var(--primary-color);
+    /* border: 1px solid var(--primary-color); */
     
 }
 .list-non-bullets{
@@ -143,6 +145,6 @@ hr{
     margin-bottom: 2.5rem;
 }
 ul a:hover{
-    background-color: #5B21B6;
+    background-color: #FCA5A5;
     border-radius: 10% 10%;
 }  
