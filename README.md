@@ -2,5 +2,5 @@
 
 Hello! Ashish Katiyar here.. 
 
-You can check my Portfolio  [I'm an inline-style link](https://ashishkatiyar.netlify.app/)
+You can check my Portfolio  [Ashish Katiyar](https://ashishkatiyar.netlify.app/)
                              
