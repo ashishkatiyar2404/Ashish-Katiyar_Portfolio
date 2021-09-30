@@ -97,7 +97,7 @@ hr{
 }
 
 .hero .hero-heading{
-    text-align: center;
+    text-align: left
     color: var(--dark-gray);
     margin: 0 auto;
     margin-bottom: 0%;
